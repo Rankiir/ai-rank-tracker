@@ -1,0 +1,27 @@
+{
+  "name": "rankiir-ai-rank-tracker",
+  "version": "1.0.0",
+  "description": "AI Rank Tracker tracks your rankings and visibility across AI search engines and Google AI Overviews",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-rank-tracker",
+    "ai-seo",
+    "rank-tracker",
+    "ai-overviews",
+    "aio",
+    "geo",
+    "seo",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/ai-rank-tracker.git"
+  }
+}
